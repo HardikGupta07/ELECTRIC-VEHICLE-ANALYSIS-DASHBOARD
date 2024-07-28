@@ -1,2 +1,6 @@
 # ELECTRIC-VEHICLE-ANALYSIS-DASHBOARD
-Built Power BI dashboard to visualize the trends of the EV Vehicles in the market. Insights shows that there is the huge potential growth opportunities of the Battery Electric Vehicle. Power BI for data visualization and interactive dashboards. Kaggle website is used to load the dataset into the excel file and Data cleaning, Data processing all are done in MS EXCEL by using EXCEL Methods.
+-> Developed a comprehensive Electric Vehicle Analysis Dashboard using Power BI.
+-> Kaggle website is used to load the dataset into the excel file and Data cleaning, Data processing all are done in MS EXCEL.
+-> Power BI for data visualization and interactive dashboards.
+-> Applied data analytics tools to evaluate market trends, Average Electric Range, Total Battery Electric Vehicles, Total Plug-in Hybrid Electric Vehicles providing critical insights for strategic decision-making and highlighting growth opportunities in the EV sector.
+ 
